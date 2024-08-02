@@ -7,7 +7,6 @@ A web-based dashboard for visualizing spinal surgery outcomes using Streamlit, P
 - [Project Description](#project-description)
 - [Features](#features)
 - [Usage](#usage)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Description
@@ -30,10 +29,6 @@ The Spinal Surgery Outcomes Dashboard is an interactive web application designed
     ```
 
 2. Open your web browser and navigate to `http://localhost:8501` to view the dashboard.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
